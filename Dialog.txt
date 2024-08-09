@@ -3,16 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/TecnoDeVolper2008/ultra-subcription
 #profile-web-page-url: https://github.com/TecnoDeVolper2008/ultra-subcription/V2ray-Configs-main
-vless://mfZKl3tDvTpRaeKK1JRUcka50MCaR9k1QbGYXSb2Az/tOeDkun1eDZt8ZLxx7CM3ux+oBpnWplboll/XmtZr38/qnxQHhlVHCANbHzmw2st3CVonQeJeYcKQiJTNsNg4nxXi8FHmV3FCNsP5rIfXWanUFczwnSGNKosaBi0jdy+8c8PapvILSD9e4hU0T/sEyUJsEF9hVkO9s20rRzl4a2BvtKhhMYVrCS18In6bpjC42fLw7k62Wx/ZYFjkM/KXMnxTPKh03c9eKbpg8GdxzA==
-vless://mfZKl3tDvTpRaeKK1JRUcka50MCaR9k1QbGYXSb2Az/tOeDkun1eDZt8ZLxx7CM3ux+oBpnWplboll/XmtZr38/qnxQHhlVHCANbHzmw2st3CVonQeJeYcKQiJTNsNg4nxXi8FHmV3FCNsP5rIfXWanUFczwnSGNKosaBi0jdy+8c8PapvILSD9e4hU0T/sEyUJsEF9hVkO9s20rRzl4a2BvtKhhMYVrCS18In6bpjC42fLw7k62Wx/ZYFjkM/KXMnxTPKh03c9eKbpg8GdxzA==
-vless://mfZKl3tDvTpRaeKK1JRUcka50MCaR9k1QbGYXSb2Az/tOeDkun1eDZt8ZLxx7CM3ux+oBpnWplboll/XmtZr38/qnxQHhlVHCANbHzmw2st3CVonQeJeYcKQiJTNsNg4nxXi8FHmV3FCNsP5rIfXWanUFczwnSGNKosaBi0jdy+8c8PapvILSD9e4hU0T/sEyUJsEF9hVkO9s20rRzl4a2BvtKhhMYVrCS18In6bpjC42fLw7k62Wx/ZYFjkM/KXMnxTPKh03c9eKbpg8GdxzA==
-vless://mfZKl3tDvTpRaeKK1JRUcka50MCaR9k1QbGYXSb2Az/tOeDkun1eDZt8ZLxx7CM3ux+oBpnWplboll/XmtZr38/qnxQHhlVHCANbHzmw2st3CVonQeJeYcKQiJTNsNg4nxXi8FHmV3FCNsP5rIfXWZQ+22YJ2Qy+20LQPtPnzG01TePKk89WOdN3+BtiYzEPcOG0Xfj2Lrx+ZHTOyR9hVhXXAmZzNz+NS5eb4IQtV5O+GSUlx68SJys7LN24fIboLlgn0aK0qmomJi5MUBTyww==
+
 #profile-title: base64:8J+GkyBHaXQ6QmFycnktZmFyIHwgU3ViNiDwn6uC
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/TecnoDeVolper2008/ultra-subcription
 #profile-web-page-url: https://github.com/TecnoDeVolper2008/ultra-subcription/V2ray-Configs-main
-vless://a9d08834-a108-4412-9446-2902134f8d4b@ultrav2rayteam.duckdns.org:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#ULTRA%20V2RAY%20TEAM-nwg2kkb4
-vless://a9d08834-a108-4412-9446-2902134f8d4b@ultrav2rayteam.duckdns.org:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#ULTRA%20V2RAY%20TEAM-nwg2kkb4
-vless://a9d08834-a108-4412-9446-2902134f8d4b@ultrav2rayteam.duckdns.org:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#ULTRA%20V2RAY%20TEAM-nwg2kkb4
-vless://a9d08834-a108-4412-9446-2902134f8d4b@ultrav2rayteam.duckdns.org:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#ULTRA%20V2RAY%20TEAM-nwg2kkb4
+vless://1cb6061d-ae06-44e9-b306-bc157358911b@152.42.250.202:443/?security=tls&encryption=none&headerType=none&type=tcp&flow=none&sni=whatsapp.net#⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 Whatsapp |🟢|🇱🇰
