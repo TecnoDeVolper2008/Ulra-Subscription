@@ -17,27 +17,27 @@ Just Copy these links to your client to use :
 
 - Dialog:
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt
+https://raw.githubusercontent.com/TecnoDeVolper2008/Ulra-Subscription/main/Dialog.txt
 ```
 
 - Slt: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub2.txt
+https://raw.githubusercontent.com/TecnoDeVolper2008/Ulra-Subscription/main/Slt.txt
 ```
 
 - Mobitel: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub3.txt
+https://raw.githubusercontent.com/TecnoDeVolper2008/Ulra-Subscription/main/Mobitel.txt
 ```
 
 - Airtel: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub4.txt
+https://raw.githubusercontent.com/TecnoDeVolper2008/Ulra-Subscription/main/Airtel.txt
 ```
 
 - Hutch: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub5.txt
+https://raw.githubusercontent.com/TecnoDeVolper2008/Ulra-Subscription/main/hutch.txt
 ```
 
 
