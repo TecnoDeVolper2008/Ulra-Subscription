@@ -17,27 +17,27 @@ Just Copy these links to your client to use :
 
 - Dialog:
 ```
-https://raw.githubusercontent.com/TecnoDeVolper2008/Ulra-Subscription/main/Dialog.txt
+https://ultra-vpn-v2rayconfig-subcription.netlify.app/Dialog.txt
 ```
 
 - Slt: 
 ```
-https://raw.githubusercontent.com/TecnoDeVolper2008/Ulra-Subscription/main/Slt.txt
+https://ultra-vpn-v2rayconfig-subcription.netlify.app/Slt.txt
 ```
 
 - Mobitel: 
 ```
-https://raw.githubusercontent.com/TecnoDeVolper2008/Ulra-Subscription/main/Mobitel.txt
+https://ultra-vpn-v2rayconfig-subcription.netlify.app/Mobitel.txt
 ```
 
 - Airtel: 
 ```
-https://raw.githubusercontent.com/TecnoDeVolper2008/Ulra-Subscription/main/Airtel.txt
+https://ultra-vpn-v2rayconfig-subcription.netlify.app/Airtel.txt
 ```
 
 - Hutch: 
 ```
-https://raw.githubusercontent.com/TecnoDeVolper2008/Ulra-Subscription/main/hutch.txt
+https://ultra-vpn-v2rayconfig-subcription.netlify.app/hutch.txt
 ```
 
 
