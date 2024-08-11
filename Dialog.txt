@@ -4,6 +4,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/TecnoDeVolper2008/ultra-subcription
 #profile-web-page-url: https://github.com/TecnoDeVolper2008/ultra-subcription/V2ray-Configs-main
-trojan://fQ84Q7A4dw@ultra.vpnxhub.xyz:443?security=tls&sni=aka.ns&allowInsecure=1&type=grpc#⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 Zoom |🟢|🇱🇰
+trojan://fQ84Q7A4dw@ultra.vpnxhub.xyz:443?security=tls&sni=aka.ms&allowInsecure=1&type=grpc#⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 Zoom |🔵|🇱🇰
 trojan://fQ84Q7A4dw@ultra.vpnxhub.xyz:443?security=tls&sni=whatsapp.net&allowInsecure=1&type=grpc#⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 Whatsapp |🟢|🇱🇰
-trojan://fQ84Q7A4dw@ultra.vpnxhub.xyz:443?security=tls&sni=m.youtube.com&allowInsecure=1&type=grpc#⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 Youtube |🟢|🇱🇰
+trojan://fQ84Q7A4dw@ultra.vpnxhub.xyz:443?security=tls&sni=m.youtube.com&allowInsecure=1&type=grpc#⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 Youtube |🔴|🇱🇰
+trojan://L2gXcKIcpL@ultra.vpnxhub.xyz:10073?type=ws&path=%2F&host=content.cdn.viber.com&security=none#⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 D348|🟢🔵🔴|🇱🇰
+trojan://fQ84Q7A4dw@ultra.vpnxhub.xyz:443?security=tls&sni=facebook.com&allowInsecure=1&type=grpc#⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 FaceBook|🔵|🇱🇰
+vless://aedf72b2-8eb1-4a5e-a504-b470b6398763@teamanuwa.sajanme.shop:5529?type=ws&path=%2F&host=m.viber.com&security=none#d%20223%20⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 D223|🔴🟠🟢|🇱🇰
