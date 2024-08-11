@@ -10,3 +10,4 @@ trojan://fQ84Q7A4dw@ultra.vpnxhub.xyz:443?security=tls&sni=m.youtube.com&allowIn
 trojan://L2gXcKIcpL@ultra.vpnxhub.xyz:10073?type=ws&path=%2F&host=content.cdn.viber.com&security=none#⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 D348|🟢🔵🔴|🇱🇰
 trojan://fQ84Q7A4dw@ultra.vpnxhub.xyz:443?security=tls&sni=facebook.com&allowInsecure=1&type=grpc#⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 FaceBook|🔵|🇱🇰
 vless://aedf72b2-8eb1-4a5e-a504-b470b6398763@teamanuwa.sajanme.shop:5529?type=ws&path=%2F&host=m.viber.com&security=none#d%20223%20⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 D223|🔴🟠🟢|🇱🇰
+trojan://ZLs88dNuZu@ultra.vpnxhub.xyz:443?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=&sni=Add Your Host##⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 Add Any Host  |🔴🟠🟢🟡🔵🟣🟤⚫️⚪️|🇱🇰
