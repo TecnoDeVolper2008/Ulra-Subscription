@@ -9,4 +9,4 @@ trojan://fQ84Q7A4dw@ultra.vpnxhub.xyz:443?security=tls&sni=m.youtube.com&allowIn
 trojan://fQ84Q7A4dw@ultra.vpnxhub.xyz:443?security=tls&sni=facebook.com&allowInsecure=1&type=grpc#⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 FaceBook|🔵|🇱🇰
 trojan://fQ84Q7A4dw@ultra.vpnxhub.xyz:443?security=tls&sni=whatsapp.net&allowInsecure=1&type=grpc#⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 Whatsapp |🟢|🇱🇰
 trojan://fQ84Q7A4dw@ultra.vpnxhub.xyz:443?security=tls&sni=m.tiktok.com&allowInsecure=1&type=grpc#⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 Tiktok |🟣|🇱🇰
-
+trojan://ZLs88dNuZu@ultra.vpnxhub.xyz:443?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=&sni=Add Your Host##⏤͟͞𝙐𝙇𝙏𝙍𝘼 𝙑2𝙍𝘼𝙔 Add Any Host  |🔴🟠🟢🟡🔵🟣🟤⚫️⚪️|🇱🇰
